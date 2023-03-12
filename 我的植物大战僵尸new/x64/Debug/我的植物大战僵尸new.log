@@ -1,0 +1,2 @@
+﻿  main.cpp
+E:\c_code\我的植物大战僵尸new\我的植物大战僵尸new\main.cpp(29,13): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
